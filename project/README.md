@@ -41,9 +41,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of the implemented user stories:
 
-<img src='http://i.imgur.com/your-gif-link.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./week5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-**GIF created with:** [ScreenToGif](https://www.screentogif.com/)
+**GIF created with:** OBS
 
 ---
 
